@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-objective Optimization | Yuntianyi&#39;s Homepage</title>
+    <link>https://yuntianyi-chen.github.io/tag/multi-objective-optimization/</link>
+      <atom:link href="https://yuntianyi-chen.github.io/tag/multi-objective-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-objective Optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 18:19:12 +0800</lastBuildDate>
+    <image>
+      <url>https://yuntianyi-chen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Multi-objective Optimization</title>
+      <link>https://yuntianyi-chen.github.io/tag/multi-objective-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems</title>
+      <link>https://yuntianyi-chen.github.io/publication/multi-objective-configuration-sampling-for/</link>
+      <pubDate>Sat, 19 Oct 2019 18:19:12 +0800</pubDate>
+      <guid>https://yuntianyi-chen.github.io/publication/multi-objective-configuration-sampling-for/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

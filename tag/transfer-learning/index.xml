@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transfer Learning | Yuntianyi&#39;s Homepage</title>
+    <link>https://yuntianyi-chen.github.io/tag/transfer-learning/</link>
+      <atom:link href="https://yuntianyi-chen.github.io/tag/transfer-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transfer Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yuntianyi-chen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Transfer Learning</title>
+      <link>https://yuntianyi-chen.github.io/tag/transfer-learning/</link>
+    </image>
+    
+    <item>
+      <title>Heterogeneous Transfer Learning on Software Configuration</title>
+      <link>https://yuntianyi-chen.github.io/project/heterogeneous-transfer-learning/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://yuntianyi-chen.github.io/project/heterogeneous-transfer-learning/</guid>
+      <description>&lt;p&gt;• Presented a novel algorithm to predict the configurations’ performance and rank the configurations of software systems when we have little labeled data in one software system (target) but have enough data in another irrelevant software system (source).&lt;/p&gt;
+&lt;p&gt;• This method is distinctive for it can be applied to any two configurable software systems even though they are from completely different fields and have different numbers of features.&lt;/p&gt;
+&lt;p&gt;• Conducted a large experiment on 208 transfering pairs of 25 software systems. The result shows a 75% average accuracy to successfully rank better configurations to the front than the baseline.&lt;/p&gt;
+&lt;p&gt;• The goal of this research is to reduce the measurement cost in the sampling process by using the labeled data we have alredy got, especially for those large software systems, which takes lots of resources and time in one measurement.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
