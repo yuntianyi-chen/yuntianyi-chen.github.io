@@ -59,13 +59,13 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
+# 📖 Education
 - *2021.09 - now*, **Ph.D. Student** in Software Engineering, University of California, Irvine
 - *2016.09 - 2020.06*, **Bachelor** in Computer Science and Technology, Wuhan University
 
 
 
-# 💬 Invited Talks
+# 💬 Talks
 - *2019.11.22*, The Annual Conference on Software Analysis, Testing and Evolution (SATE 2019). Hangzhou, China
 
 <!-- Nov 22, 2019 1:00 PM Hangzhou, China -->
@@ -76,7 +76,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 
-# 💻 Working Experience
+# 💻 Experience
 - *2021.9 - now*, **Teaching Assistant**, University of California, Irvine
   - SWE 249P - Applied Data Analytics
   - SWE 247P - Applied Information Retrieval
