@@ -46,13 +46,13 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 </div>
 </div> -->
 
-<!-- - [scenoRITA: Generating Diverse, Fully-Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383), Yuqi Huai, Sumaya Almanee, **Yuntianyi Chen**, Xiafa Wu, Qi Alfred Chen, Joshua Garcia, **TSE 2023** -->
+<!-- - [scenoRITA: Generating Diverse, Fully-Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383), Yuqi Huai, Sumaya Almanee, <u>Yuntianyi Chen</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia, **TSE 2023** -->
 
-- [Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software](https://ieeexplore.ieee.org/abstract/document/10172903), Yuqi Huai, **Yuntianyi Chen**, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wan, Qi Alfred Chen, Joshua Garcia, **ICSE 2023**
+- [Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software](https://ieeexplore.ieee.org/abstract/document/10172903), Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wan, Qi Alfred Chen, Joshua Garcia, **ICSE 2023**
 
-- [Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems](https://ieeexplore.ieee.org/abstract/document/8945705), Yongfeng Gu, **Yuntianyi Chen**, Xiangyang Jia, Jifeng Xuan, **APSEC 2019**
+- [Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems](https://ieeexplore.ieee.org/abstract/document/8945705), Yongfeng Gu, <u>Yuntianyi Chen</u>, Xiangyang Jia, Jifeng Xuan, **APSEC 2019**
 
-- [Regression Models for Performance Ranking of Configurable Systems: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-030-41418-4_17), **Yuntianyi Chen**, Yongfeng Gu, Lulu He, Jifeng Xuan, **SATE 2019**
+- [Regression Models for Performance Ranking of Configurable Systems: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-030-41418-4_17), <u>Yuntianyi Chen</u>, Yongfeng Gu, Lulu He, Jifeng Xuan, **SATE 2019**
 
 
 <!-- # 🎖 Honors and Awards
@@ -85,7 +85,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
   - INF 122 - Software Design: Structure and Implementation
   - CS 113 / INF 125 – Computer Game Development
 - *2020.11 - 2021.06*, **Research Assistant**, Wuhan University
-  - Working with Prof. Jifeng Xuan at Centre of Software Testing, Analysis and Reliability (CSTAR) Lab
+  - Working with Prof. Jifeng Xuan at Centre of Software Testing, Analysis and Reliability (CSTAR)
 - *2017.9 - 2017.12*, **Teaching Assistant**, Wuhan University
   - Advanced Software Engineering
 
