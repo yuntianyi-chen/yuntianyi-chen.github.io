@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuntianyi Chen's Homepage"
-description              : ""
+description              : "yuntianc@uci.edu"
 repository               : "yuntianyi-chen/yuntianyi-chen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,8 +27,8 @@ author:
   location         : "Irvine, CA, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "yuntianc@uci.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=T2p6ZrQAAAAJ"
+  email            :  # "yuntianc@uci.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
