@@ -97,3 +97,4 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 # 📫 Contact
 - Email: yuntianc@uci.edu
+- Have a look at my [CV](../attachments/CV.pdf) !
