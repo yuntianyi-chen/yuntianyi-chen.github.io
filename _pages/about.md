@@ -60,8 +60,10 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Education
-- *2021.09 - Present*, **Ph.D. Student** in Software Engineering, University of California, Irvine
-- *2016.09 - 2020.06*, **Bachelor** in Computer Science and Technology, Wuhan University
+- *2021.09 - Present*, **Ph.D. Student** of Software Engineering, 
+  - University of California, Irvine, USA
+- *2016.09 - 2020.06*, **Bachelor** of Computer Science and Technology, 
+  - Wuhan University, China
 
 <!-- Nov 22, 2019 1:00 PM Hangzhou, China -->
 
