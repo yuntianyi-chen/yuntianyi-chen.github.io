@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuntianyi Chen is a Ph.D. student of software engineering at University of California, Irvine. His research interests include automated testing and scenario generation of autonomous driving systems, performance ranking of software configuration. He joined the Software Aurora (SORA) Lab since 2021. His advisor is Prof. Joshua Garcia.
+Yuntianyi Chen is a Ph.D. student of software engineering at University of California, Irvine. His research interests include automated testing and scenario generation of autonomous driving systems, performance ranking of software configuration. He joined the Software Aurora (SORA) Lab since 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
 
 <u>Research Interests:</u>
 - Automated Testing
@@ -72,14 +72,14 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 📚 Services
-- *2022.12*, Sub-Reviewer, 20th IEEE International Conference on Software Architecture (ICSA 2023)
-- *2019.11*, Sub-Reviewer, 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020)
+# 📚 Service
+- *2022.12*, Sub-Reviewer, 20th IEEE International Conference on Software Architecture (ICSA 2023), Technical Track
+- *2019.11*, Sub-Reviewer, 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), Research Track
 
 # 💬 Talks
 - *2019.11.22*, The Annual Conference on Software Analysis, Testing and Evolution (SATE 2019). Hangzhou, China
 
-# 💻 Experiences
+# 💻 Work Experience
 - *2021.9 - Present*, **Teaching Assistant**, University of California, Irvine
   - SWE 249P - Applied Data Analytics
   - SWE 247P - Applied Information Retrieval
@@ -88,7 +88,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
   - INF 122 - Software Design: Structure and Implementation
   - CS 113 / INF 125 – Computer Game Development
 - *2020.11 - 2021.06*, **Research Assistant**, Wuhan University
-  - Working with Prof. Jifeng Xuan at Centre of Software Testing, Analysis and Reliability (CSTAR)
+  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) at Centre of Software Testing, Analysis and Reliability (CSTAR)
 - *2017.9 - 2017.12*, **Teaching Assistant**, Wuhan University
   - Advanced Software Engineering
 
