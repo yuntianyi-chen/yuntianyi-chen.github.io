@@ -19,7 +19,7 @@ redirect_from:
 
 Yuntianyi Chen is a Ph.D. student of software engineering at University of California, Irvine. His research interests include automated testing and scenario generation of autonomous driving systems, performance ranking of software configuration. He joined the Software Aurora (SORA) Lab since 2021. His advisor is Prof. Joshua Garcia.
 
-<u>Research Interests</u>
+<u>Research Interests:</u>
 - Automated Testing
 - Autonomous Driving System
 - Software Configuration
@@ -60,13 +60,8 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Education
-- *2021.09 - now*, **Ph.D. Student** in Software Engineering, University of California, Irvine
+- *2021.09 - Present*, **Ph.D. Student** in Software Engineering, University of California, Irvine
 - *2016.09 - 2020.06*, **Bachelor** in Computer Science and Technology, Wuhan University
-
-
-
-# 💬 Talks
-- *2019.11.22*, The Annual Conference on Software Analysis, Testing and Evolution (SATE 2019). Hangzhou, China
 
 <!-- Nov 22, 2019 1:00 PM Hangzhou, China -->
 
@@ -75,9 +70,15 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
+# 📚 Services
+- *2022.12*, Sub-Reviewer, 20th IEEE International Conference on Software Architecture (ICSA 2023)
+- *2019.11*, Sub-Reviewer, 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020)
 
-# 💻 Experience
-- *2021.9 - now*, **Teaching Assistant**, University of California, Irvine
+# 💬 Talks
+- *2019.11.22*, The Annual Conference on Software Analysis, Testing and Evolution (SATE 2019). Hangzhou, China
+
+# 💻 Experiences
+- *2021.9 - Present*, **Teaching Assistant**, University of California, Irvine
   - SWE 249P - Applied Data Analytics
   - SWE 247P - Applied Information Retrieval
   - SWE 266P - Software Security and Dependability
@@ -88,11 +89,6 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
   - Working with Prof. Jifeng Xuan at Centre of Software Testing, Analysis and Reliability (CSTAR)
 - *2017.9 - 2017.12*, **Teaching Assistant**, Wuhan University
   - Advanced Software Engineering
-
-
-
-# 📚 Services
-- *2019.11*, Sub-Reviewer, 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020)
 
 
 # 📫 Contact
