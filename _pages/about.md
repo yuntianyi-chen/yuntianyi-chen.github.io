@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuntianyi Chen is a Ph.D. student of software engineering at University of California, Irvine. His research interests include automated testing and scenario generation of autonomous driving systems, performance ranking of software configuration. He joined the Software Aurora (SORA) Lab since 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
+Yuntianyi Chen is a Ph.D. student of software engineering at the University of California, Irvine. His research interests include automated testing and scenario generation of autonomous driving systems, and performance ranking of software configuration. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
 
 <u>Research Interests:</u>
 - Software Testing
@@ -81,7 +81,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 # 💻 Work Experience
 - *2021.09 - Present*, **Graduate Student Researcher**, University of California, Irvine
-  - Conducting research in areas of Software Testing and Autonomous Driving System Under supervision of Prof. Joshua Garcia
+  - Conducting research in areas of Software Testing and Autonomous Driving System under the supervision of Prof. Joshua Garcia
 - *2021.09 - Present*, **Teaching Assistant**, University of California, Irvine
   - SWE 249P - Applied Data Analytics
   - SWE 247P - Applied Information Retrieval
@@ -90,9 +90,9 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
   - INF 122 - Software Design: Structure and Implementation
   - CS 113 / INF 125 - Computer Game Development
 - *2020.11 - 2021.06*, **Research Assistant**, Wuhan University
-  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) at Centre of Software Testing, Analysis and Reliability (CSTAR)
+  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) at the Centre of Software Testing, Analysis and Reliability (CSTAR)
 - *2017.10 - 2020.10*, **Undergraduate Student Researcher**, Wuhan University
-  - Conducting research in areas of Performance Ranking, Software Configuration, and Transfer Learning Under supervision of Prof. Jifeng Xuan
+  - Conducting research in areas of Performance Ranking, Software Configuration, and Transfer Learning under the supervision of Prof. Jifeng Xuan
 - *2017.09 - 2017.12*, **Teaching Assistant**, Wuhan University
   - Advanced Software Engineering
 
