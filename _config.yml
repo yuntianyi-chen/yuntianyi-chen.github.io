@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuntianyi Chen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of California, Irvine"
+  bio              : "Ph.D. Student"
   location         : "Irvine, CA, USA"
-  employer         :
+  employer         : "University of California, Irvine"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=T2p6ZrQAAAAJ"
   email            :  # "yuntianc@uci.edu"
