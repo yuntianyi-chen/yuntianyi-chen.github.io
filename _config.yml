@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuntianyi Chen's Homepage"
+title                    : "Yuntianyi Chen"
 description              : "yuntianc@uci.edu"
 repository               : "yuntianyi-chen/yuntianyi-chen.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,10 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuntianyi Chen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : |+ 
-    Ph.D. Student
-          
-    University of California, Irvine
+  bio              : "Ph.D. Student\n\n\nUniversity of California, Irvine"
   location         : "Irvine, CA, USA"
   employer         : 
   pubmed           : 
