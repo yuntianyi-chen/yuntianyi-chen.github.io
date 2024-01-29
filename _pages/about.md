@@ -46,7 +46,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 </div>
 </div> -->
 
-<!-- - [scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383), Yuqi Huai, Sumaya Almanee, <u>Yuntianyi Chen</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia, **TSE 2023** -->
+- [scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383), Yuqi Huai, Sumaya Almanee, <u>Yuntianyi Chen</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia, **TSE 2023**
 
 - [Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software](https://ieeexplore.ieee.org/abstract/document/10172903), Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wan, Qi Alfred Chen, Joshua Garcia, **ICSE 2023**
 
@@ -54,10 +54,6 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 - [Regression Models for Performance Ranking of Configurable Systems: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-030-41418-4_17), <u>Yuntianyi Chen</u>, Yongfeng Gu, Lulu He, Jifeng Xuan, **SATE 2019**
 
-
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Education
 - *2021.09 - Present*, **Ph.D. Student** of Software Engineering
@@ -73,16 +69,25 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 📚 Service
-- *2022.12*, Sub-Reviewer, 20th IEEE International Conference on Software Architecture (ICSA 2023), Technical Track
-- *2019.11*, Sub-Reviewer, 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), Research Track
+- *2024.01*, Reviewer, IEEE Robotics and Automation Letters (RA-L 2024)
+- *2023.10*, Reviewer, 41st IEEE International Conference on Robotics and Automation (ICRA 2024)
+- *2023.10*, External Reviewer, 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024)
+- *2022.12*, Sub-reviewer, 20th IEEE International Conference on Software Architecture (ICSA 2023), Technical Track
+- *2019.11*, Sub-reviewer, 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), Research Track
+- *2023.12*, Student Volunteer, 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
 
 # 💬 Talks
 - *2019.11.22*, The Annual Conference on Software Analysis, Testing and Evolution (SATE 2019). Hangzhou, China
+
+# 🎖 Honors and Awards
+- *2023.11*, NSF Student Travel Award
+- *2021.10*, Chair's Award, University of California, Irvine
 
 # 💻 Work Experience
 - *2021.09 - Present*, **Graduate Student Researcher**, University of California, Irvine
   - Conducting research in areas of Software Testing and Autonomous Driving System under the supervision of Prof. Joshua Garcia
 - *2021.09 - Present*, **Teaching Assistant**, University of California, Irvine
+  - ICS 45J - Programming in Java
   - SWE 249P - Applied Data Analytics
   - SWE 247P - Applied Information Retrieval
   - SWE 266P - Software Security and Dependability
