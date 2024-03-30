@@ -82,7 +82,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 #### Volunteer
 
 - *2023.12*, Student Volunteer, 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
-- *2023.5*, Student Volunteer, Southern California Software Engineering Symposium (SuCSES 2023)
+- *2023.05*, Student Volunteer, Southern California Software Engineering Symposium (SuCSES 2023)
 
 
 # 💬 Talks
