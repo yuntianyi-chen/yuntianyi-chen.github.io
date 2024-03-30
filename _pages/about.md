@@ -69,12 +69,21 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 📚 Service
+
+#### Reviewer
+
+- *2024.03*, Committee member and reviewer, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 - *2024.01*, Reviewer, IEEE Robotics and Automation Letters (RA-L 2024)
-- *2023.10*, Reviewer, 41st IEEE International Conference on Robotics and Automation (ICRA 2024)
-- *2023.10*, External Reviewer, 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024)
+- *2023.10*, Reviewer, 41st IEEE International Conference on Robotics and Automation (ICRA 2024), Contributed papers
+- *2023.10*, External Reviewer, 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024), Research Papers
 - *2022.12*, Sub-reviewer, 20th IEEE International Conference on Software Architecture (ICSA 2023), Technical Track
 - *2019.11*, Sub-reviewer, 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), Research Track
+
+#### Volunteer
+
 - *2023.12*, Student Volunteer, 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
+- *2023.5*, Student Volunteer, Southern California Software Engineering Symposium (SuCSES 2023)
+
 
 # 💬 Talks
 - *2019.11.22*, The Annual Conference on Software Analysis, Testing and Evolution (SATE 2019). Hangzhou, China
