@@ -72,11 +72,15 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 # 📚 Service
 
-#### Reviewer & Committee
+#### Committee
+- *2024.04*, Program Committee Member, The ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
+- *2024.03*, Program Committee Member, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
-- *2024.04*, Committee Member, The ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
+#### Reviewer
+
+<!-- - *2024.04*, Reviewer, The ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track -->
 - *2024.04*, External Reviewer, The 47th the IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track
-- *2024.03*, Committee Member, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
+- *2024.03*, Reviewer, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 - *2024.01*, Reviewer, IEEE Robotics and Automation Letters (RA-L 2024)
 - *2023.10*, Reviewer, 41st IEEE International Conference on Robotics and Automation (ICRA 2024), Contributed papers
 - *2023.10*, External Reviewer, 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024), Research Papers
