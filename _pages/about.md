@@ -27,7 +27,6 @@ Yuntianyi Chen is a Ph.D. student of software engineering at the University of C
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -58,6 +57,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 
 # 📖 Education
+
 - *2021.09 - Present*, **Ph.D. Student** of Software Engineering
   - University of California, Irvine, USA
 - *2016.09 - 2020.06*, **Bachelor** of Computer Science and Technology
@@ -73,13 +73,14 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 # 📚 Service
 
 #### Committee
-- *2024.04*, Program Committee Member, The ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
+
+- *2024.05*, Program Committee Member, The ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.03*, Program Committee Member, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Reviewer
-
-<!-- - *2024.04*, Reviewer, The ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track -->
-- *2024.04*, External Reviewer, The 47th the IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track
+<!-- - *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers -->
+- *2024.05*, Reviewer, The ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
+- *2024.04*, External Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track
 - *2024.03*, Reviewer, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 - *2024.01*, Reviewer, IEEE Robotics and Automation Letters (RA-L 2024)
 - *2023.10*, Reviewer, 41st IEEE International Conference on Robotics and Automation (ICRA 2024), Contributed papers
@@ -93,15 +94,18 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 - *2023.05*, Student Volunteer, Southern California Software Engineering Symposium (SuCSES 2023)
 - *2021.04*, Organizer and Volunteer, The Workshop of Intelligent Real-time Methods and Technologies of Quality Improvement based on Co-programming
 
-
 # 💬 Talks
+
 - *2019.11.22*, The Annual Conference on Software Analysis, Testing and Evolution (SATE 2019). Hangzhou, China
 
 # 🎖 Honors and Awards
+
+<!-- - *2024.05*, ACM SIGSOFT CAPS -->
 - *2023.11*, NSF Student Travel Award
 - *2021.10*, Chair's Award, University of California, Irvine
 
 # 💻 Work Experience
+
 - *2021.09 - Present*, **Graduate Student Researcher**, University of California, Irvine
   - Conducting research in areas of Software Testing and Autonomous Driving System under the supervision of Prof. Joshua Garcia
 - *2021.09 - Present*, **Teaching Assistant**, University of California, Irvine
@@ -121,6 +125,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 
 # 📫 Contact
+
 - Name Pronunciation: Yuntianyi Chen (yoon-tyen-ee chuhn)
 - Have a look at my [CV](../attachments/CV.pdf) here!
 - Email: yuntianc@uci.edu
