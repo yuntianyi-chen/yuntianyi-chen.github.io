@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuntianyi Chen is a Ph.D. student of software engineering at the University of California, Irvine. His research interests include automated testing, scenario generation of autonomous driving systems, and performance ranking of software configuration. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
+Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of California, Irvine. His research interests include automated testing, scenario generation of autonomous driving systems, and performance ranking of software configuration. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
 
 <u>Research Interests:</u>
 - Software Testing
@@ -58,7 +58,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 # 📖 Education
 
-- *2021.09 - Present*, **Ph.D. Student** of Software Engineering
+- *2021.09 - Present*, **Ph.D. Candidate** of Software Engineering
   - University of California, Irvine, USA
 - *2016.09 - 2020.06*, **Bachelor** of Computer Science and Technology
   - Wuhan University, China
@@ -78,7 +78,8 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 - *2024.03*, Program Committee Member, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Reviewer
-<!-- - *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers -->
+
+- *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers
 - *2024.05*, Reviewer, The ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.04*, External Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track
 - *2024.03*, Reviewer, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
