@@ -17,19 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of California, Irvine. His research interests include automated testing, scenario generation of autonomous driving systems, and performance ranking of software configuration. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
+<!-- Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of California, Irvine. His research interests include automated testing, scenario generation of autonomous driving systems, and performance ranking of software configurations. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/). -->
+
+Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of California, Irvine. His research interests include software testing and performance ranking of software configurations. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
 
 <u>Research Interests:</u>
 - Software Testing
-- Autonomous Driving System
 - Software Configuration
+<!-- - Autonomous Driving System -->
 <!-- Transfer Learning -->
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
@@ -45,7 +41,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 </div>
 </div> -->
 
-- [Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://2024.esec-fse.org/details/fse-2024-research-papers/52/Misconfiguration-Software-Testing-for-Failure-Emergence-in-Autonomous-Driving-Systems), <u>Yuntianyi Chen</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia, **FSE 2024**
+<!-- - [Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://2024.esec-fse.org/details/fse-2024-research-papers/52/Misconfiguration-Software-Testing-for-Failure-Emergence-in-Autonomous-Driving-Systems), <u>Yuntianyi Chen</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia, **FSE 2024** -->
 
 - [scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383), Yuqi Huai, Sumaya Almanee, <u>Yuntianyi Chen</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia, **TSE 2023**
 
@@ -128,5 +124,5 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 # 📫 Contact
 
 - Name Pronunciation: Yuntianyi Chen (yoon-tyen-ee chuhn)
-- Have a look at my [CV](../attachments/CV.pdf) here!
+<!-- - Have a look at my [CV](../attachments/CV.pdf) here! -->
 - Email: yuntianc@uci.edu
