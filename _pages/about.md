@@ -41,7 +41,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 </div>
 </div> -->
 
-- [Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://2024.esec-fse.org/details/fse-2024-research-papers/52/Misconfiguration-Software-Testing-for-Failure-Emergence-in-Autonomous-Driving-Systems), <u>Yuntianyi Chen</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia, **FSE 2024**
+- [Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://dl.acm.org/doi/abs/10.1145/3660792), <u>Yuntianyi Chen</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia, **FSE 2024**
 
 - [scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383), Yuqi Huai, Sumaya Almanee, <u>Yuntianyi Chen</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia, **TSE 2023**
 
@@ -75,6 +75,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 #### Reviewer
 
+- *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM 2024), Technical paper
 - *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers
 - *2024.05*, Reviewer, The ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.04*, External Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track
