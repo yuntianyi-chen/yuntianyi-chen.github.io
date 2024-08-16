@@ -66,7 +66,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 📚 Service
+# 📚 Services
 
 #### Committee
 
@@ -75,13 +75,13 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 #### Reviewer
 
-- *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM 2024), Technical paper
+- *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM 2024), Technical Paper
 - *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers
 - *2024.05*, Reviewer, The ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.04*, External Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track
 - *2024.03*, Reviewer, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 - *2024.01*, Reviewer, IEEE Robotics and Automation Letters (RA-L 2024)
-- *2023.10*, Reviewer, 41st IEEE International Conference on Robotics and Automation (ICRA 2024), Contributed papers
+- *2023.10*, Reviewer, 41st IEEE International Conference on Robotics and Automation (ICRA 2024), Contributed Papers
 - *2023.10*, External Reviewer, 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024), Research Papers
 - *2022.12*, Sub-reviewer, 20th IEEE International Conference on Software Architecture (ICSA 2023), Technical Track
 - *2019.11*, Sub-reviewer, 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), Research Track

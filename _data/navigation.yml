@@ -9,20 +9,20 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
-
   - title: "Education"
     url: "/#-education"
 
-  - title: "Talks"
-    url: "/#-talks"
-
-  - title: "Experience"
-    url: "/#-experience"
-
   - title: "Services"
     url: "/#-services"
+
+  # - title: "Talks"
+  #   url: "/#-talks"
+
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
+
+  # - title: "Work Experience"
+  #   url: "/#-work-experience"
 
   - title: "Contact"
     url: "/#-contact"
