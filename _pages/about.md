@@ -17,39 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of California, Irvine. His research interests include automated testing, scenario generation of autonomous driving systems, and performance ranking of software configurations. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
+Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of California, Irvine. His research interests include configuration testing, scenario generation of autonomous driving systems, and performance ranking of software configurations. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
 
 <!-- Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of California, Irvine. His research interests include software testing and performance ranking of software configurations. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/). -->
 
 <u>Research Interests:</u>
-- Software Testing
-- Software Configuration
 - Autonomous Driving System
-<!-- Transfer Learning -->
-
-# 📝 Publications 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
-
-- [Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://dl.acm.org/doi/abs/10.1145/3660792), <u>Yuntianyi Chen</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia, **FSE 2024**
-
-- [scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383), Yuqi Huai, Sumaya Almanee, <u>Yuntianyi Chen</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia, **TSE 2023**
-
-- [Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software](https://ieeexplore.ieee.org/abstract/document/10172903), Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wan, Qi Alfred Chen, Joshua Garcia, **ICSE 2023**
-
-- [Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems](https://ieeexplore.ieee.org/abstract/document/8945705), Yongfeng Gu, <u>Yuntianyi Chen</u>, Xiangyang Jia, Jifeng Xuan, **APSEC 2019**
-
-- [Regression Models for Performance Ranking of Configurable Systems: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-030-41418-4_17), <u>Yuntianyi Chen</u>, Yongfeng Gu, Lulu He, Jifeng Xuan, **SATE 2019**
+- Software Configuration
+- Automated Software Testing
+<!-- - Searach-based Testing -->
+<!-- - Transfer Learning -->
 
 
 # 📖 Education
@@ -66,20 +43,45 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
+
+# 📝 Publications 
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div> -->
+
+- **[FSE 2024]** [Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://dl.acm.org/doi/abs/10.1145/3660792), <u>Yuntianyi Chen</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia. Proc. ACM Softw. Eng. 1, FSE (2024), 1913–1936.
+
+- **[TSE 2023]** [scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383), Yuqi Huai, Sumaya Almanee, <u>Yuntianyi Chen</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia. IEEE Trans. Software Eng. 49, 10 (2023), 4656–4676.
+
+- **[ICSE 2023]** [Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software](https://ieeexplore.ieee.org/abstract/document/10172903), Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wan, Qi Alfred Chen, Joshua Garcia. In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Melbourne, Australia, May 14-20, 2023. IEEE, 2591–2603.
+
+- **[APSEC 2019]** [Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems](https://ieeexplore.ieee.org/abstract/document/8945705), Yongfeng Gu, <u>Yuntianyi Chen</u>, Xiangyang Jia, Jifeng Xuan. In 26th Asia-Pacific Software Engineering Conference, APSEC 2019, Putrajaya, Malaysia, December 2-5, 2019. IEEE, 150–157.
+
+- **[SOFL+MSVL 2019]** [Regression Models for Performance Ranking of Configurable Systems: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-030-41418-4_17), <u>Yuntianyi Chen</u>, Yongfeng Gu, Lulu He, Jifeng Xuan. In Structured Object-Oriented Formal Language and Method - 9th International Workshop, SOFL+MSVL 2019, Shenzhen, China, November 5, 2019. Springer, 243–258.
+
 # 📚 Services
 
 #### Committee
 
-- *2024.09*, Organizing Committee, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), The First International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
+- *2024.09*, Organization Co-chair in Organizing Committee, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), The First International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
 - *2024.09*, Program Committee Member, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
-- *2024.05*, Program Committee Member, The ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
+- *2024.05*, Program Committee Member, ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.03*, Program Committee Member, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Reviewer
 
-- *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM 2024), Technical Paper
+- *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM 2024), Full Length Technical Paper
 - *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers
-- *2024.05*, Reviewer, The ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
+- *2024.05*, Reviewer, ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.04*, External Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track
 - *2024.03*, Reviewer, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 - *2024.01*, Reviewer, IEEE Robotics and Automation Letters (RA-L 2024)
@@ -96,24 +98,28 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 # 💬 Talks
 
-- *2019.11.22*, The Annual Conference on Software Analysis, Testing and Evolution (SATE 2019). Hangzhou, China
+- *2019.11.22*, Presentation on the paper “Regression Models for Performance Ranking of Configurable Systems: A Comparative Study” at the Annual Conference on Software Analysis, Testing and Evolution (SATE 2019), Hangzhou, China
 
 # 🎖 Honors and Awards
 
-<!-- - *2024.05*, ACM SIGSOFT CAPS -->
-- *2023.11*, NSF Student Travel Award
-- *2021.10*, Chair's Award, University of California, Irvine
+- *2024*, ACM SIGSOFT CAPS
+- *2023*, NSF Student Travel Award
+- *2021*, Chair's Award, University of California, Irvine
+- *2017-2018, 2016-2017, and 2018-2019*, Scholarship for Outstanding Students (Top 10%)
+- *2018*, Chinese Undergraduate Computer Design Contest (Regional Level, Second Prize)
 
 # 💻 Work Experience
 
 - *2021.09 - Present*, **Graduate Student Researcher**, University of California, Irvine
-  - Conducting research in areas of Software Testing and Autonomous Driving System under the supervision of Prof. Joshua Garcia
+  - Conducting research in areas of Autonomous Driving System and Automated Software Testing under the supervision of Prof. Joshua Garcia
 - *2021.09 - Present*, **Teaching Assistant**, University of California, Irvine
-  - ICS 45J - Programming in Java
-  - SWE 249P - Applied Data Analytics
+  - SWE 242P - Network Programming
+  - SWE 243P - Database Programming
   - SWE 247P - Applied Information Retrieval
+  - SWE 249P - Applied Data Analytics
   - SWE 266P - Software Security and Dependability
   - ICS 32 - Programming with Software Libraries
+  - ICS 45J - Programming in Java
   - INF 122 - Software Design: Structure and Implementation
   - CS 113 / INF 125 - Computer Game Development
 - *2020.07 - 2021.07*, **Research Assistant**, Wuhan University
