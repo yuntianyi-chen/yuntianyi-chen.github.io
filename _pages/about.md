@@ -108,12 +108,12 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 - *2017-2018, 2016-2017, and 2018-2019*, Scholarship for Outstanding Students (Top 10%)
 - *2018*, Chinese Undergraduate Computer Design Contest (Regional Level, Second Prize)
 
-# 💻 Work Experience
+# 💻 Work Experiences
 
 - *2021.09 - Present*, **Graduate Student Researcher**, University of California, Irvine
   - Conducting research in areas of Autonomous Driving System and Automated Software Testing under the supervision of Prof. Joshua Garcia
 - *2021.09 - Present*, **Teaching Assistant**, University of California, Irvine
-  - SWE 242P - Network Programming
+  - SWE 241P - Applied Data Structures and Algorithms
   - SWE 243P - Database Programming
   - SWE 247P - Applied Information Retrieval
   - SWE 249P - Applied Data Analytics
