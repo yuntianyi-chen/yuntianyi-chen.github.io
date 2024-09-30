@@ -72,7 +72,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 #### Committee
 
-- *2024.09*, Organization Co-chair in Organizing Committee, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), The First International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
+- *2024.09*, Organizing Committee, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), The First International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
 - *2024.09*, Program Committee Member, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
 - *2024.05*, Program Committee Member, ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.03*, Program Committee Member, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
