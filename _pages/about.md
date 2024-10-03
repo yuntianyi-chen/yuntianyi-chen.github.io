@@ -72,10 +72,10 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 #### Committee
 
-- *2024.09*, Web & Publicity Chair, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), The First International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
-- *2024.09*, Program Committee Member, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
-- *2024.05*, Program Committee Member, ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
-- *2024.03*, Program Committee Member, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
+- *2024.09*, [Organizing Committee](https://conf.researchr.org/home/icse-2025/se4ads-2025#Call-for-Papers), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), The First International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
+- *2024.09*, [Committee Member](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
+- *2024.05*, [Committee Member](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
+- *2024.03*, [Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Reviewer
 
@@ -102,7 +102,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 # 🎖 Honors and Awards
 
-- *2024*, ACM SIGSOFT CAPS
+- *2024*, ACM SIGSOFT CAPS Award
 - *2023*, NSF Student Travel Award
 - *2021*, Chair's Award, University of California, Irvine
 - *2017-2018, 2016-2017, and 2018-2019*, Scholarship for Outstanding Students (Top 10%)
@@ -123,7 +123,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
   - INF 122 - Software Design: Structure and Implementation
   - CS 113 / INF 125 - Computer Game Development
 - *2020.07 - 2021.07*, **Research Assistant**, Wuhan University
-  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) at the Centre of Software Testing, Analysis and Reliability (CSTAR)
+  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) at the Centre of Software Testing, Analysis and Reliability (CSTAR Lab)
 - *2017.11 - 2020.06*, **Undergraduate Student Researcher**, Wuhan University
   - Conducting research in areas of Performance Ranking, Software Configuration, and Transfer Learning under the supervision of Prof. Jifeng Xuan
 - *2017.09 - 2017.12*, **Teaching Assistant**, Wuhan University
