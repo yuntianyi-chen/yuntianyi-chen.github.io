@@ -73,19 +73,19 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 #### Committee
 
 - *2024.09*, [Organizing Committee](https://conf.researchr.org/home/icse-2025/se4ads-2025#Call-for-Papers), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), The First International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
-- *2024.09*, [Committee Member](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
-- *2024.05*, [Committee Member](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
-- *2024.03*, [Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
+- *2024.09*, [Program Committee Member](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
+- *2024.05*, [Program Committee Member](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
+- *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Reviewer
 
-- *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM 2024), Full Length Technical Paper
+- *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), Full Length Technical Journal Paper
 - *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers
 - *2024.05*, Reviewer, ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.04*, External Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track
 - *2024.03*, Reviewer, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
-- *2024.01*, Reviewer, IEEE Robotics and Automation Letters (RA-L 2024)
-- *2023.10*, Reviewer, 41st IEEE International Conference on Robotics and Automation (ICRA 2024), Contributed Papers
+- *2024.01*, Reviewer, IEEE Robotics and Automation Letters (IEEE RA-L), Journal Paper
+- *2023.10*, Delegate Reviewer, 41st IEEE International Conference on Robotics and Automation (ICRA 2024), Contributed Papers
 - *2023.10*, External Reviewer, 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024), Research Papers
 - *2022.12*, Sub-reviewer, 20th IEEE International Conference on Software Architecture (ICSA 2023), Technical Track
 - *2019.11*, Sub-reviewer, 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), Research Track
@@ -98,7 +98,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 # 💬 Talks
 
-- *2019.11.22*, Presentation on the paper “Regression Models for Performance Ranking of Configurable Systems: A Comparative Study” at the Annual Conference on Software Analysis, Testing and Evolution (SATE 2019), Hangzhou, China
+- *2019.11.22*, Paper Presentation, “Regression Models for Performance Ranking of Configurable Systems: A Comparative Study” at the Annual Conference on Software Analysis, Testing and Evolution (SATE 2019), Hangzhou, China
 
 # 🎖 Honors and Awards
 
