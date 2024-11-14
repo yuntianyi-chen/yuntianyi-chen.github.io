@@ -46,7 +46,7 @@ Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of
 
 # 🔥 News
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='../images/ConfVE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='../images/confve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://dl.acm.org/doi/abs/10.1145/3660792)
@@ -58,7 +58,7 @@ Proc. ACM Softw. Eng. 1, FSE (2024), 1913–1936.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2023</div><img src='../images/scenoRITA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2023</div><img src='../images/scenorita.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383)
@@ -70,7 +70,7 @@ IEEE Trans. Software Eng. 49, 10 (2023), 4656–4676.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2023</div><img src='../images/DoppelTest.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2023</div><img src='../images/doppeltest.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software](https://ieeexplore.ieee.org/abstract/document/10172903)
