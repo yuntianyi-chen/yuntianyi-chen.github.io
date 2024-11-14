@@ -46,27 +46,52 @@ Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='../images/ConfVE.png' alt="sym" width="40%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://dl.acm.org/doi/abs/10.1145/3660792)
 
-Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
+<u>**Yuntianyi Chen**</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Proc. ACM Softw. Eng. 1, FSE (2024), 1913–1936.
+
 </div>
-</div> -->
+</div>
 
-- **[FSE 2024]** [Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://dl.acm.org/doi/abs/10.1145/3660792), <u>Yuntianyi Chen</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia. Proc. ACM Softw. Eng. 1, FSE (2024), 1913–1936.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2023</div><img src='../images/scenoRITA.png' alt="sym" width="40%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **[TSE 2023]** [scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383), Yuqi Huai, Sumaya Almanee, <u>Yuntianyi Chen</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia. IEEE Trans. Software Eng. 49, 10 (2023), 4656–4676.
+[scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383)
 
-- **[ICSE 2023]** [Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software](https://ieeexplore.ieee.org/abstract/document/10172903), Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wan, Qi Alfred Chen, Joshua Garcia. In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Melbourne, Australia, May 14-20, 2023. IEEE, 2591–2603.
+Yuqi Huai, Sumaya Almanee, <u>**Yuntianyi Chen**</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia
 
-- **[APSEC 2019]** [Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems](https://ieeexplore.ieee.org/abstract/document/8945705), Yongfeng Gu, <u>Yuntianyi Chen</u>, Xiangyang Jia, Jifeng Xuan. In 26th Asia-Pacific Software Engineering Conference, APSEC 2019, Putrajaya, Malaysia, December 2-5, 2019. IEEE, 150–157.
+IEEE Trans. Software Eng. 49, 10 (2023), 4656–4676.
 
-- **[SOFL+MSVL 2019]** [Regression Models for Performance Ranking of Configurable Systems: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-030-41418-4_17), <u>Yuntianyi Chen</u>, Yongfeng Gu, Lulu He, Jifeng Xuan. In Structured Object-Oriented Formal Language and Method - 9th International Workshop, SOFL+MSVL 2019, Shenzhen, China, November 5, 2019. Springer, 243–258.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2023</div><img src='../images/DoppelTest.png' alt="sym" width="40%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software](https://ieeexplore.ieee.org/abstract/document/10172903)
+
+Yuqi Huai, <u>**Yuntianyi Chen**</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wan, Qi Alfred Chen, Joshua Garcia
+
+In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Melbourne, Australia, May 14-20, 2023. IEEE, 2591–2603.
+
+</div>
+</div>
+
+- **[FSE 2024]** [Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://dl.acm.org/doi/abs/10.1145/3660792), <u>**Yuntianyi Chen**</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia. Proc. ACM Softw. Eng. 1, FSE (2024), 1913–1936.
+
+- **[TSE 2023]** [scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383), Yuqi Huai, Sumaya Almanee, <u>**Yuntianyi Chen**</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia. IEEE Trans. Software Eng. 49, 10 (2023), 4656–4676.
+
+- **[ICSE 2023]** [Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software](https://ieeexplore.ieee.org/abstract/document/10172903), Yuqi Huai, <u>**Yuntianyi Chen**</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wan, Qi Alfred Chen, Joshua Garcia. In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Melbourne, Australia, May 14-20, 2023. IEEE, 2591–2603.
+
+- **[APSEC 2019]** [Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems](https://ieeexplore.ieee.org/abstract/document/8945705), Yongfeng Gu, <u>**Yuntianyi Chen**</u>, Xiangyang Jia, Jifeng Xuan. In 26th Asia-Pacific Software Engineering Conference, APSEC 2019, Putrajaya, Malaysia, December 2-5, 2019. IEEE, 150–157.
+
+- **[SOFL+MSVL 2019]** [Regression Models for Performance Ranking of Configurable Systems: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-030-41418-4_17), <u>**Yuntianyi Chen**</u>, Yongfeng Gu, Lulu He, Jifeng Xuan. In Structured Object-Oriented Formal Language and Method - 9th International Workshop, SOFL+MSVL 2019, Shenzhen, China, November 5, 2019. Springer, 243–258.
 
 # 📚 Services
 
@@ -79,6 +104,7 @@ Yuqi Huai, **Yuntianyi Chen**, Shaoqing Ren, Jian Sun -->
 
 #### Reviewer
 
+- *2024.11*, Reviewer, IEEE Transactions on Software Engineering (TSE), Full Length Journal Paper
 - *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), Full Length Technical Journal Paper
 - *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers
 - *2024.05*, Reviewer, ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
