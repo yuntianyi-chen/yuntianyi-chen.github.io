@@ -32,8 +32,10 @@ Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of
 # 📖 Education
 
 - *2021.09 - Present*, **Ph.D. Candidate** of Software Engineering
+  - Donald Bren School of Information and Computer Sciences
   - University of California, Irvine, USA
 - *2016.09 - 2020.06*, **Bachelor** of Computer Science and Technology
+  - School of Computer
   - Wuhan University, China
 
 <!-- Nov 22, 2019 1:00 PM Hangzhou, China -->
