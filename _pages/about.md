@@ -46,7 +46,7 @@ Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 
-# 🔥 News
+# 🔥 Highlights
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='../images/confve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -100,11 +100,15 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 
 - **[SOFL+MSVL 2019]** [Regression Models for Performance Ranking of Configurable Systems: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-030-41418-4_17), <u>Yuntianyi Chen</u>, Yongfeng Gu, Lulu He, Jifeng Xuan. In Structured Object-Oriented Formal Language and Method - 9th International Workshop, SOFL+MSVL 2019, Shenzhen, China, November 5, 2019. Springer, 243–258.
 
-# 📚 Services
+# 📚 Service
 
-#### Committee
+#### Organization
 
-- *2024.09*, [Web & Publicity Chair and Program Committee Member](https://conf.researchr.org/home/icse-2025/se4ads-2025), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
+- *2024.09*, [Web & Publicity Chair](https://conf.researchr.org/home/icse-2025/se4ads-2025), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
+
+#### Program Committee
+
+- *2024.09*, [Program Committee Member](https://conf.researchr.org/home/icse-2025/se4ads-2025), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
 - *2024.09*, [Program Committee Member](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
 - *2024.05*, [Program Committee Member](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
@@ -127,7 +131,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 
 - *2023.12*, Student Volunteer, 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
 - *2023.05*, Student Volunteer, Southern California Software Engineering Symposium (SuCSES 2023)
-- *2021.04*, Organizer and Volunteer, The Workshop of Intelligent Real-time Methods and Technologies of Quality Improvement based on Co-programming
+- *2021.04*, Organizing Volunteer, The Workshop of Intelligent Real-time Methods and Technologies of Quality Improvement based on Co-programming
 
 # 💬 Talks
 
@@ -151,10 +155,10 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
   - SWE 247P - Applied Information Retrieval
   - SWE 249P - Applied Data Analytics
   - SWE 266P - Software Security and Dependability
-  - ICS 32 - Programming with Software Libraries
-  - ICS 45J - Programming in Java
-  - INF 122 - Software Design: Structure and Implementation
-  - CS 113 / INF 125 - Computer Game Development
+  - I&C SCI 32 - Programming with Software Libraries
+  - I&C SCI 45J - Programming in Java
+  - IN4MATX 122 - Software Design: Structure and Implementation
+  - COMPSCI 113 / IN4MATX 125  - Computer Game Development
 - *2020.07 - 2021.07*, **Research Assistant**, Wuhan University
   - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) at the Centre of Software Testing, Analysis and Reliability (CSTAR Lab)
 - *2017.11 - 2020.06*, **Undergraduate Student Researcher**, Wuhan University
