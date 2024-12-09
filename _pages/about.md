@@ -115,8 +115,8 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 
 #### Reviewer
 - *2024.11*, Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
-- *2024.11*, Reviewer, IEEE Transactions on Software Engineering (TSE), Full Length Journal Paper
-- *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), Full Length Technical Journal Paper
+- *2024.11*, Reviewer, IEEE Transactions on Software Engineering (TSE), Journal Paper
+- *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), Journal Paper
 - *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers
 - *2024.05*, Reviewer, ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.04*, External Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track
