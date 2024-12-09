@@ -108,13 +108,13 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 
 #### Program Committee
 
-- *2024.09*, [Program Committee Member](https://conf.researchr.org/home/icse-2025/se4ads-2025), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
+- *2024.11*, [Program Committee Member](https://conf.researchr.org/home/icse-2025/se4ads-2025), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
 - *2024.09*, [Program Committee Member](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
 - *2024.05*, [Program Committee Member](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Reviewer
-
+- *2024.11*, Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
 - *2024.11*, Reviewer, IEEE Transactions on Software Engineering (TSE), Full Length Journal Paper
 - *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), Full Length Technical Journal Paper
 - *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers
@@ -160,7 +160,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
   - IN4MATX 122 - Software Design: Structure and Implementation
   - COMPSCI 113 / IN4MATX 125  - Computer Game Development
 - *2020.07 - 2021.07*, **Research Assistant**, Wuhan University
-  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) at the Centre of Software Testing, Analysis and Reliability (CSTAR Lab)
+  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) in area of Transfer Learning at the Centre of Software Testing, Analysis and Reliability (CSTAR Lab)
 - *2017.11 - 2020.06*, **Undergraduate Student Researcher**, Wuhan University
   - Conducting research in areas of Performance Ranking, Software Configuration, and Transfer Learning under the supervision of Prof. Jifeng Xuan
 - *2017.09 - 2017.12*, **Teaching Assistant**, Wuhan University
