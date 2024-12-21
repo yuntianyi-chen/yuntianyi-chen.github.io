@@ -31,10 +31,10 @@ Yuntianyi Chen is a Ph.D. candidate in software engineering at the University of
 
 # 📖 Education
 
-- *2021.09 - Present*, **Ph.D. Candidate** of Software Engineering
+- *2021.09 - Present*, **Ph.D. Candidate** in Software Engineering
   - Donald Bren School of Information and Computer Sciences
   - University of California, Irvine, USA
-- *2016.09 - 2020.06*, **Bachelor** of Computer Science and Technology
+- *2016.09 - 2020.06*, **Bachelor** in Computer Science and Technology
   - School of Computer
   - Wuhan University, China
 
@@ -108,7 +108,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 
 #### Program Committee
 
-- *2024.11*, [Program Committee Member](https://conf.researchr.org/home/icse-2025/se4ads-2025), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
+- *2024.09*, [Program Committee Member](https://conf.researchr.org/home/icse-2025/se4ads-2025), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
 - *2024.09*, [Program Committee Member](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
 - *2024.05*, [Program Committee Member](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
