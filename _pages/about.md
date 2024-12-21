@@ -143,12 +143,12 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 - *2023*, NSF Student Travel Award
 - *2021*, Chair's Award, University of California, Irvine
 - *2017-2018, 2016-2017, and 2018-2019*, Scholarship for Outstanding Students (Top 10%)
-- *2018*, Chinese Undergraduate Computer Design Contest (Regional Level, Second Prize)
+- *2018*, Chinese Undergraduate Computer Design Contest (Provincial Level, Second Prize)
 
 # 💻 Work Experiences
 
 - *2021.09 - Present*, **Graduate Student Researcher**, University of California, Irvine
-  - Conducting research in areas of Autonomous Driving System and Automated Software Testing under the supervision of Prof. Joshua Garcia
+  - Conducting research in areas of Autonomous Driving System and Automated Software Testing under the supervision of Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/)
 - *2021.09 - Present*, **Teaching Assistant**, University of California, Irvine
   - SWE 241P - Applied Data Structures and Algorithms
   - SWE 243P - Database Programming
