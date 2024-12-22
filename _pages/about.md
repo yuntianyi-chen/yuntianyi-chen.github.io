@@ -24,7 +24,7 @@ Yuntianyi Chen is a Ph.D. candidate in software engineering at the University of
 <u>Research Interests:</u>
 - Autonomous Driving System
 - Software Configuration
-- Automated Software Testing
+- Software Testing
 <!-- - Searach-based Testing -->
 <!-- - Transfer Learning -->
 
@@ -148,7 +148,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 # 💻 Work Experiences
 
 - *2021.09 - Present*, **Graduate Student Researcher**, University of California, Irvine
-  - Conducting research in areas of Autonomous Driving System and Automated Software Testing under the supervision of Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/)
+  - Conducting research in areas of Autonomous Driving System,  Software Testing, and Software Configuration under the supervision of Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/)
 - *2021.09 - Present*, **Teaching Assistant**, University of California, Irvine
   - SWE 241P - Applied Data Structures and Algorithms
   - SWE 243P - Database Programming
@@ -162,7 +162,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 - *2020.07 - 2021.07*, **Research Assistant**, Wuhan University
   - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) in area of Transfer Learning at the Centre of Software Testing, Analysis and Reliability (CSTAR Lab)
 - *2017.11 - 2020.06*, **Undergraduate Student Researcher**, Wuhan University
-  - Conducting research in areas of Performance Ranking, Software Configuration, and Transfer Learning under the supervision of Prof. Jifeng Xuan
+  - Conducting research in areas of Performance Ranking and Software Configuration under the supervision of Prof. Jifeng Xuan
 - *2017.09 - 2017.12*, **Teaching Assistant**, Wuhan University
   - Advanced Software Engineering
 
