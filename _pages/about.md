@@ -160,7 +160,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
   - IN4MATX 122 - Software Design: Structure and Implementation
   - COMPSCI 113 / IN4MATX 125  - Computer Game Development
 - *2020.07 - 2021.07*, **Research Assistant**, Wuhan University
-  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) in area of Transfer Learning at the Centre of Software Testing, Analysis and Reliability (CSTAR Lab)
+  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) in the area of Transfer Learning at the Centre of Software Testing, Analysis and Reliability (CSTAR Lab)
 - *2017.11 - 2020.06*, **Undergraduate Student Researcher**, Wuhan University
   - Conducting research in areas of Performance Ranking, Software Configuration, and Transfer Learning under the supervision of Prof. Jifeng Xuan
 - *2017.09 - 2017.12*, **Teaching Assistant**, Wuhan University
