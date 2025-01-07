@@ -57,6 +57,12 @@ Yuntianyi Chen is a Ph.D. candidate in software engineering at the University of
 
 Proc. ACM Softw. Eng. 1, FSE (2024), 1913–1936.
 
+<!-- --- -->
+
+<br/>
+
+**Top-tier Conference Paper**
+
 </div>
 </div>
 
@@ -69,6 +75,12 @@ Yuqi Huai, Sumaya Almanee, <u>Yuntianyi Chen</u>, Xiafa Wu, Qi Alfred Chen, Josh
 
 IEEE Trans. Software Eng. 49, 10 (2023), 4656–4676.
 
+<!-- --- -->
+
+<br/>
+
+**Top-tier Journal Paper**
+
 </div>
 </div>
 
@@ -80,6 +92,12 @@ IEEE Trans. Software Eng. 49, 10 (2023), 4656–4676.
 Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wan, Qi Alfred Chen, Joshua Garcia
 
 In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Melbourne, Australia, May 14-20, 2023. IEEE, 2591–2603.
+
+<!-- --- -->
+
+<br/>
+
+**Top-tier Conference Paper**
 
 </div>
 </div>
