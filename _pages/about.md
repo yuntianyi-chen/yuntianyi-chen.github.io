@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuntianyi Chen is a Ph.D. candidate in software engineering at the University of California, Irvine. His research interests include configuration testing, scenario generation of autonomous driving systems, and performance ranking of software configurations. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
+Yuntianyi Chen is a Ph.D. candidate in software engineering at the University of California, Irvine. His research interests include scenario generation and testing of autonomous driving systems, performance ranking of software configurations, and using artificial intelligence approaches to solve software engineering problems.
+He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
 
 <!-- Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of California, Irvine. His research interests include software testing and performance ranking of software configurations. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/). -->
 
@@ -25,6 +26,7 @@ Yuntianyi Chen is a Ph.D. candidate in software engineering at the University of
 - Autonomous Driving System
 - Software Testing
 - Software Configuration
+<!-- - Machine Learning -->
 <!-- - Searach-based Testing -->
 <!-- - Transfer Learning -->
 
