@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuntianyi Chen is a Ph.D. candidate in software engineering at the University of California, Irvine. His research interests include scenario generation and testing of autonomous driving systems, performance ranking of software configurations, and using artificial intelligence approaches to solve software engineering problems.
-He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
+Yuntianyi Chen is a Ph.D. candidate in software engineering at the University of California, Irvine. His research interests include scenario generation and automated testing of autonomous driving systems, performance prediction and ranking of software configurations, and using AI/ML approaches to solve more software engineering (SE) and autonomous driving system (ADS) problems.
+He joined the Software Aurora (SORA) Lab in 2021. His Ph.D. advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/).
 
 <!-- Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of California, Irvine. His research interests include software testing and performance ranking of software configurations. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/). -->
 
@@ -168,7 +168,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 # 💻 Work Experiences
 
 - *2021.09 - Present*, **Graduate Student Researcher**, University of California, Irvine
-  - Conducting research in areas of Autonomous Driving System,  Software Testing, and Software Configuration under the supervision of Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/)
+  - Conducting research in areas of Autonomous Driving Systems, Software Testing, and Software Configuration under the supervision of Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/)
 - *2021.09 - Present*, **Teaching Assistant**, University of California, Irvine
   - SWE 241P - Applied Data Structures and Algorithms
   - SWE 243P - Database Programming
@@ -180,7 +180,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
   - IN4MATX 122 - Software Design: Structure and Implementation
   - COMPSCI 113 / IN4MATX 125  - Computer Game Development
 - *2020.07 - 2021.07*, **Research Assistant**, Wuhan University
-  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) in the area of Transfer Learning at the Centre of Software Testing, Analysis and Reliability (CSTAR Lab)
+  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) in Transfer Learning research at the Centre of Software Testing, Analysis and Reliability (CSTAR Lab)
 - *2017.11 - 2020.06*, **Undergraduate Student Researcher**, Wuhan University
   - Conducting research in areas of Performance Ranking, Software Configuration, and Transfer Learning under the supervision of Prof. Jifeng Xuan
 - *2017.09 - 2017.12*, **Teaching Assistant**, Wuhan University
