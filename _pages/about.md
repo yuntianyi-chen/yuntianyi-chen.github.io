@@ -34,6 +34,7 @@ He joined the Software Aurora (SORA) Lab in 2021. His Ph.D. advisor is Prof. [Jo
 # 📖 Education
 
 - *2021.09 - Present*, **Ph.D. Candidate** in Software Engineering
+  - **Master's** degree earned en route to the Ph.D.
   - Donald Bren School of Information and Computer Sciences
   - University of California, Irvine, USA
 - *2016.09 - 2020.06*, **Bachelor** in Computer Science and Technology
