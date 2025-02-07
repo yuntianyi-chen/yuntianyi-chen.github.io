@@ -22,10 +22,10 @@ He joined the Software Aurora (SORA) Lab in 2021. His Ph.D. advisor is Prof. [Jo
 
 <!-- Yuntianyi Chen is a Ph.D. candidate of software engineering at the University of California, Irvine. His research interests include software testing and performance ranking of software configurations. He joined the Software Aurora (SORA) Lab in 2021. His advisor is Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/). -->
 
-<u>Research Interests:</u>
-- Autonomous Driving System
+<u>Research Domains:</u>
+- Autonomous Driving Systems
 - Software Testing
-- Software Configuration
+- Machine Learning
 <!-- - Machine Learning -->
 <!-- - Searach-based Testing -->
 <!-- - Transfer Learning -->
@@ -37,7 +37,7 @@ He joined the Software Aurora (SORA) Lab in 2021. His Ph.D. advisor is Prof. [Jo
   - **Master of Science** degree earned en route to the Ph.D.
   - Donald Bren School of Information and Computer Sciences
   - University of California, Irvine, USA
-- *2016.09 - 2020.06*, **Bachelor** in Computer Science and Technology
+- *2016.09 - 2020.06*, **Bachelor** of Computer Science and Technology
   - School of Computer
   - Wuhan University, China
 
@@ -147,6 +147,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 #### Organization
 
 - *2024.09*, [Web & Publicity Chair](https://conf.researchr.org/home/icse-2025/se4ads-2025), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
+- *2021.04*, Local Arrangements Co-Chair, The Workshop of Intelligent Real-time Methods and Technologies of Quality Improvement based on Co-programming
 
 #### Program Committee
 
@@ -174,7 +175,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 
 - *2023.12*, Student Volunteer, 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
 - *2023.05*, Student Volunteer, Southern California Software Engineering Symposium (SuCSES 2023)
-- *2021.04*, Organizing Volunteer, The Workshop of Intelligent Real-time Methods and Technologies of Quality Improvement based on Co-programming
+
 
 # 💬 Talks
 
@@ -213,5 +214,5 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 # 📫 Contact
 
 - Name Pronunciation: Yuntianyi Chen (yoon-tyen-ee chuhn)
-- Have a look at my [CV](../attachments/CV.pdf) here!
+- Have a look at my [Resume](../attachments/Resume.pdf) here!
 - Email: yuntianc@uci.edu
