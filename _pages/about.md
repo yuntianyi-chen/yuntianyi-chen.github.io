@@ -34,12 +34,12 @@ He joined the Software Aurora (SORA) Lab in 2021. His Ph.D. advisor is Prof. [Jo
 # 📖 Education
 
 - *2021.09 - Present*, **Ph.D. Candidate** in Software Engineering
-  - **Master of Science** degree earned en route to the Ph.D.
-  - Donald Bren School of Information and Computer Sciences
   - University of California, Irvine, USA
+  - Donald Bren School of Information and Computer Sciences
+  - **Master of Science** degree has been earned en route to the Ph.D.
 - *2016.09 - 2020.06*, **Bachelor** of Computer Science and Technology
-  - School of Computer
   - Wuhan University, China
+  - School of Computer
 
 <!-- Nov 22, 2019 1:00 PM Hangzhou, China -->
 
@@ -153,16 +153,17 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 
 - *2024.09*, [Program Committee Member](https://conf.researchr.org/home/icse-2025/se4ads-2025), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
 - *2024.09*, [Program Committee Member](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
-- *2024.05*, [Program Committee Member](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
+- *2024.05*, [Program Committee Member](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), 31st ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Reviewer
 - *2025.01*, Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
+- *2024.12*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), Journal Paper
 - *2024.11*, Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
 - *2024.11*, Reviewer, IEEE Transactions on Software Engineering (TSE), Journal Paper
 - *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), Journal Paper
 - *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers
-- *2024.05*, Reviewer, ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
+- *2024.05*, Reviewer, 31st ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.04*, External Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track
 - *2024.03*, Reviewer, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 - *2024.01*, Reviewer, IEEE Robotics and Automation Letters (IEEE RA-L), Journal Paper
@@ -189,10 +190,10 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 - *2017-2018, 2016-2017, and 2018-2019*, Scholarship for Outstanding Students (Top 10%)
 - *2018*, Chinese Undergraduate Computer Design Contest (Provincial Level, Second Prize)
 
-# 💻 Work Experiences
+# 💻 Experience
 
-- *2021.09 - Present*, **Graduate Student Researcher**, University of California, Irvine
-  - Conducting research in areas of Autonomous Driving Systems, Software Testing, and Software Configuration under the supervision of Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/)
+- *2021.09 - Present*, **Graduate Student Researcher**, Software Aurora (SORA) Lab, University of California, Irvine
+  - Conducting research in areas of Autonomous Driving Systems, Software Testing, and Machine Learning under the supervision of Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/)
 - *2021.09 - Present*, **Teaching Assistant**, University of California, Irvine
   - SWE 241P - Applied Data Structures and Algorithms
   - SWE 243P - Database Programming
@@ -203,8 +204,8 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
   - I&C SCI 45J - Programming in Java
   - IN4MATX 122 - Software Design: Structure and Implementation
   - COMPSCI 113 / IN4MATX 125  - Computer Game Development
-- *2020.07 - 2021.07*, **Research Assistant**, Wuhan University
-  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) in Transfer Learning research at the Centre of Software Testing, Analysis and Reliability (CSTAR Lab)
+- *2020.07 - 2021.07*, **Research Assistant**, Centre of Software Testing, Analysis and Reliability (CSTAR), Wuhan University
+  - Working with Prof. [Jifeng Xuan](http://jifeng-xuan.com/) in Transfer Learning research
 - *2017.11 - 2020.06*, **Undergraduate Student Researcher**, Wuhan University
   - Conducting research in areas of Performance Ranking, Software Configuration, and Transfer Learning under the supervision of Prof. Jifeng Xuan
 - *2017.09 - 2017.12*, **Teaching Assistant**, Wuhan University
@@ -214,5 +215,5 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 # 📫 Contact
 
 - Name Pronunciation: Yuntianyi Chen (yoon-tyen-ee chuhn)
-- Have a look at my [Resume](../attachments/Resume.pdf) here!
+- Have a look at my [CV](../attachments/CV___Yuntianyi_Chen.pdf) here!
 - Email: yuntianc@uci.edu
