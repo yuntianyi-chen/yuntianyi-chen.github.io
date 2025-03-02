@@ -187,7 +187,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 - *2024*, ACM SIGSOFT CAPS Award
 - *2023*, NSF Student Travel Award
 - *2021*, Chair's Award, University of California, Irvine
-- *2017-2018, 2016-2017, and 2018-2019*, Scholarship for Outstanding Students (Top 10%)
+- *2017-2018, 2016-2017, and 2018-2019*, Scholarship for Outstanding Students (Top 5%)
 - *2018*, Chinese Undergraduate Computer Design Contest (Provincial Level, Second Prize)
 
 # 💻 Experience
