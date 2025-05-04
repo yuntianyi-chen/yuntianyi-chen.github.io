@@ -165,25 +165,28 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 - *2024.05*, [Program Committee Member](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), 31st ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
-#### Reviewer
-- *2025.04*, Reviewer, IEEE Transactions on Intelligent Transportation Systems (T-ITS), Journal Paper
+#### Journal Reviewer
+- *2025.05*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
+- *2025.04*, Reviewer, IEEE Transactions on Intelligent Transportation Systems (T-ITS)
+- *2024.12*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
+- *2024.11*, Reviewer, IEEE Transactions on Software Engineering (TSE)
+- *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
+- *2024.01*, Reviewer, IEEE Robotics and Automation Letters (IEEE RA-L)
+
+#### Conference Reviewer
 - *2025.01*, Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
-- *2024.12*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), Journal Paper
 - *2024.11*, Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
-- *2024.11*, Reviewer, IEEE Transactions on Software Engineering (TSE), Journal Paper
-- *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), Journal Paper
 - *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers
 - *2024.05*, Reviewer, 31st ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
 - *2024.04*, External Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track
 - *2024.03*, Reviewer, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
-- *2024.01*, Reviewer, IEEE Robotics and Automation Letters (IEEE RA-L), Journal Paper
 - *2023.10*, Delegate Reviewer, 41st IEEE International Conference on Robotics and Automation (ICRA 2024), Contributed Papers
 - *2023.10*, External Reviewer, 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024), Research Papers
 - *2022.12*, Sub-Reviewer, 20th IEEE International Conference on Software Architecture (ICSA 2023), Technical Track
 - *2019.11*, Sub-Reviewer, 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), Research Track
 
 #### Volunteer
-
+- *2025.04*, Student Volunteer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)
 - *2023.12*, Student Volunteer, 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
 - *2023.05*, Student Volunteer, Southern California Software Engineering Symposium (SuCSES 2023)
 
@@ -194,10 +197,10 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 
 # 🎖 Honors and Awards
 
-- *2024*, ACM SIGSOFT CAPS Award
+- *2024 & 2025*, ACM SIGSOFT CAPS Award
 - *2023*, NSF Student Travel Award
 - *2021*, Chair's Award, University of California, Irvine
-- *2017-2018, 2016-2017, and 2018-2019*, Scholarship for Outstanding Students (Top 5%)
+- *2017-2018, 2016-2017, & 2018-2019*, Scholarship for Outstanding Students (Top 5%)
 - *2018*, Chinese Undergraduate Computer Design Contest (Provincial Level, Second Prize)
 
 # 💻 Experience
