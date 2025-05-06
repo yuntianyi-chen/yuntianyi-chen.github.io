@@ -39,7 +39,7 @@ He joined the Software Aurora (SORA) Lab in 2021. His Ph.D. advisor is Prof. [Jo
   - **Master of Science** degree has been earned en route to the Ph.D.
 - *2016.09 - 2020.06*, **Bachelor** of Computer Science and Technology
   - Wuhan University, China
-  - School of Computer
+  - School of Computer Science
 
 <!-- Nov 22, 2019 1:00 PM Hangzhou, China -->
 
