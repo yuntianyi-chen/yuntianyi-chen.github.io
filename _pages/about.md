@@ -58,7 +58,7 @@ He joined the Software Aurora (SORA) Lab in 2021. His Ph.D. advisor is Prof. [Jo
 
 <u>Yuntianyi Chen</u>, Yuqi Huai, Yirui He, Shilong Li, Changnam Hong, Qi Alfred Chen, Joshua Garcia
 
-Proc. ACM Softw. Eng. 2, FSE (2025). **(Accepted, To be published)**
+Proc. ACM Softw. Eng. 2, FSE (2025), 380-402.
 
 [![ACM](https://img.shields.io/badge/ACM_Digital_Library-10.1145%2F3715733-blue.svg)](https://doi.org/10.1145/3715733)
 [![arXiv](https://img.shields.io/badge/arXiv-2502.01937-b31b1b.svg)](https://arxiv.org/abs/2502.01937)
@@ -139,7 +139,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 
 # 📝 Publications 
 
-- **[FSE 2025]** [A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems](../attachments/FSE_2025_Bug-Fix-Patterns.pdf), <u>Yuntianyi Chen</u>, Yuqi Huai, Yirui He, Shilong Li, Changnam Hong, Qi Alfred Chen, Joshua Garcia. Proc. ACM Softw. Eng. 2, FSE (2025). **(Accepted, To be published)**
+- **[FSE 2025]** [A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems](https://dl.acm.org/doi/10.1145/3715733), <u>Yuntianyi Chen</u>, Yuqi Huai, Yirui He, Shilong Li, Changnam Hong, Qi Alfred Chen, Joshua Garcia. Proc. ACM Softw. Eng. 2, FSE (2025), 380-402.
 
 - **[FSE 2024]** [Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://dl.acm.org/doi/abs/10.1145/3660792), <u>Yuntianyi Chen</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia. Proc. ACM Softw. Eng. 1, FSE (2024), 1913–1936.
 
