@@ -166,6 +166,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 - *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Journal Reviewer
+
 - *2025.05*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
 - *2025.04*, Reviewer, IEEE Transactions on Intelligent Transportation Systems (T-ITS)
 - *2024.12*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
@@ -186,6 +187,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 - *2019.11*, Sub-Reviewer, 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), Research Track
 
 #### Volunteer
+
 - *2025.04*, Student Volunteer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)
 - *2023.12*, Student Volunteer, 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
 - *2023.05*, Student Volunteer, Southern California Software Engineering Symposium (SuCSES 2023)
@@ -193,12 +195,13 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 
 # 💬 Talks
 
+- *2025.06.23*, Paper Presentation, “A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems” at the ACM International Conference on the Foundations of Software Engineering (FSE 2025), Trondheim, Norway
 - *2019.11.22*, Paper Presentation, “Regression Models for Performance Ranking of Configurable Systems: A Comparative Study” at the Annual Conference on Software Analysis, Testing and Evolution (SATE 2019), Hangzhou, China
 
 # 🎖 Honors and Awards
 
 - *2024 & 2025*, ACM SIGSOFT CAPS Award
-- *2023*, NSF Student Travel Award
+- *2023 & 2025*, NSF Student Travel Award
 - *2021*, Chair's Award, University of California, Irvine
 - *2017-2018, 2016-2017, & 2018-2019*, Scholarship for Outstanding Students (Top 5%)
 - *2018*, Chinese Undergraduate Computer Design Contest (Provincial Level, Second Prize)
@@ -214,6 +217,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
   - SWE 249P - Applied Data Analytics
   - SWE 266P - Software Security and Dependability
   - I&C SCI 32 - Programming with Software Libraries
+  - I&C SCI 33 - Intermediate Programming
   - I&C SCI 45J - Programming in Java
   - IN4MATX 122 - Software Design: Structure and Implementation
   - COMPSCI 113 / IN4MATX 125  - Computer Game Development
