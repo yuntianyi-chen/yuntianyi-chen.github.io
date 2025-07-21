@@ -36,8 +36,8 @@ He joined the Software Aurora (SORA) Lab in 2021. His Ph.D. advisor is Prof. [Jo
 - *2021.09 - Present*, **Ph.D. Candidate** in Software Engineering
   - University of California, Irvine, USA
   - Donald Bren School of Information and Computer Sciences
-  - **Master of Science** degree has been earned en route to the Ph.D.
-- *2016.09 - 2020.06*, **Bachelor** of Computer Science and Technology
+  - **Master of Science** degree has been conferred en route to the Ph.D.
+- *2016.09 - 2020.06*, **Bachelor** of Computer Science
   - Wuhan University, China
   - School of Computer Science
 
@@ -232,5 +232,5 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 # 📫 Contact
 
 - Name Pronunciation: Yuntianyi Chen (yoon-tyen-ee chuhn)
-- Have a look at my [CV](../attachments/CV___Yuntianyi_Chen.pdf) here!
+- Have a look at my academic [CV](../attachments/CV___Yuntianyi_Chen.pdf) here!
 - Email: yuntianc@uci.edu
