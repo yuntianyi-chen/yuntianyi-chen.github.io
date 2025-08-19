@@ -166,7 +166,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 - *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Journal Reviewer
-
+- *2025.08*, Reviewer, IEEE Transactions on Intelligent Transportation Systems (T-ITS)
 - *2025.05*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
 - *2025.04*, Reviewer, IEEE Transactions on Intelligent Transportation Systems (T-ITS)
 - *2024.12*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
