@@ -49,12 +49,37 @@ He joined the Software Aurora (SORA) Lab in 2021. His Ph.D. advisor is Prof. [Jo
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 
-# 🔥 Highlights
+# 🌐 Media & Outreach
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2025</div><img src='../images/bfp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box reverse'>
 <div class='paper-box-text' markdown="1">
 
-[A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems](../attachments/FSE_2025_Bug-Fix-Patterns.pdf)
+*2025.08*, **Autoware Foundation - Centers of Excellence (CoE) Blog**
+
+[**Advancing Software Testing for Autonomous Driving Systems: A Year of Collaboration and Contribution at UCI**](https://autoware.org/advancing-software-testing-for-autonomous-driving-systems/) 
+
+Highlighted collaborative work:
+  - Scenario generation frameworks and simulation-based testing
+  - ADS misconfiguration testing approach and violation detection tool
+  - Large-scale bug-fix analyses in Autoware & Apollo
+  - The design of CADRI, a cloud-based ADS research infrastructure
+
+</div>
+
+<div class='paper-box-image'><div><img src='../images/autoware-coe-blog.png' alt="sym" width="100%"></div></div>
+
+</div>
+
+
+
+
+# 🔥 Highlights
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">FSE 2025</div><img src='../images/bfp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems**](../attachments/FSE_2025_Bug-Fix-Patterns.pdf)
 
 <u>Yuntianyi Chen</u>, Yuqi Huai, Yirui He, Shilong Li, Changnam Hong, Qi Alfred Chen, Joshua Garcia
 
@@ -76,7 +101,7 @@ Proc. ACM Softw. Eng. 2, FSE (2025), 380-402.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='../images/confve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](../attachments/FSE_2024_ConfVE.pdf)
+[**Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems**](../attachments/FSE_2024_ConfVE.pdf)
 
 <u>Yuntianyi Chen</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia
 
@@ -96,7 +121,7 @@ Proc. ACM Softw. Eng. 1, FSE (2024), 1913–1936.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2023</div><img src='../images/scenorita.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](../attachments/TSE_2023_scenoRITA.pdf)
+[**scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning**](../attachments/TSE_2023_scenoRITA.pdf)
 
 Yuqi Huai, Sumaya Almanee, <u>Yuntianyi Chen</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia
 
@@ -116,7 +141,7 @@ IEEE Trans. Software Eng. 49, 10 (2023), 4656–4676.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2023</div><img src='../images/doppeltest.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software](../attachments/ICSE_2023_DoppelTest.pdf)
+[**Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software**](../attachments/ICSE_2023_DoppelTest.pdf)
 
 Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wan, Qi Alfred Chen, Joshua Garcia
 
