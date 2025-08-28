@@ -202,14 +202,15 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 #### Conference Reviewer
 - *2025.01*, Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
 - *2024.11*, Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
-- *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers
 - *2024.05*, Reviewer, 31st ACM Conference on Computer and Communications Security (CCS 2024), Artifacts Evaluation Track
-- *2024.04*, External Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track
 - *2024.03*, Reviewer, 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 - *2023.10*, Delegate Reviewer, 41st IEEE International Conference on Robotics and Automation (ICRA 2024), Contributed Papers
-- *2023.10*, External Reviewer, 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024), Research Papers
 - *2022.12*, Sub-Reviewer, 20th IEEE International Conference on Software Architecture (ICSA 2023), Technical Track
 - *2019.11*, Sub-Reviewer, 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), Research Track
+
+<!-- - *2024.05*, External Reviewer, 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Technical Papers -->
+<!-- - *2024.04*, External Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Research Track -->
+<!-- - *2023.10*, External Reviewer, 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024), Research Papers -->
 
 #### Volunteer
 
@@ -223,7 +224,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 - *2025.06.23*, Paper Presentation, “A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems” at the ACM International Conference on the Foundations of Software Engineering (FSE 2025), Trondheim, Norway
 - *2019.11.22*, Paper Presentation, “Regression Models for Performance Ranking of Configurable Systems: A Comparative Study” at the Annual Conference on Software Analysis, Testing and Evolution (SATE 2019), Hangzhou, China
 
-# 🎖 Honors and Awards
+# 🎖 Honors & Awards
 
 - *2024 & 2025*, ACM SIGSOFT CAPS Award
 - *2023 & 2025*, NSF Student Travel Award
