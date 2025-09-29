@@ -239,6 +239,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 - *2021.09 - Present*, **Teaching Assistant**, University of California, Irvine
   - SWE 241P - Applied Data Structures and Algorithms
   - SWE 243P - Database Programming
+  - SWE 244P - Concurrent Programming
   - SWE 247P - Applied Information Retrieval
   - SWE 249P - Applied Data Analytics
   - SWE 266P - Software Security and Dependability
