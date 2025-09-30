@@ -197,7 +197,7 @@ In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Me
 - *2024.12*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
 - *2024.11*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2024.07*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
-- *2024.01*, Reviewer, IEEE Robotics and Automation Letters (IEEE RA-L)
+- *2024.01*, Reviewer, IEEE Robotics and Automation Letters (RA-L)
 
 #### Conference Reviewer
 - *2025.01*, Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
