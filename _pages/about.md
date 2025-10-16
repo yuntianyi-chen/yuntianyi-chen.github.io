@@ -83,7 +83,9 @@ Highlighted collaborative work:
 
 Yuqi Huai, <u>Yuntianyi Chen</u>, Ziwen Wan, Qi Alfred Chen, Joshua Garcia
 
-48th IEEE/ACM International Conference on Software Engineering, ICSE 2026, Rio de Janeiro, Brazil, April 12-18, 2026. **(Accepted, To be published)**
+48th IEEE/ACM International Conference on Software Engineering, ICSE 2026, Rio de Janeiro, Brazil, April 12-18, 2026. 
+
+**(Accepted, To be published)**
 
 
 <br/>
@@ -198,7 +200,7 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 
 - **[SOFL+MSVL 2019]** [Regression Models for Performance Ranking of Configurable Systems: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-030-41418-4_17), <u>Yuntianyi Chen</u>, Yongfeng Gu, Lulu He, Jifeng Xuan. In Structured Object-Oriented Formal Language and Method - 9th International Workshop, SOFL+MSVL 2019, Shenzhen, China, November 5, 2019. Springer, 243–258.
 
-# 📚 Service
+# 📚 Services
 
 #### Organization
 

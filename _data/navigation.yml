@@ -14,8 +14,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Service"
-    url: "/#-service"
+  - title: "Services"
+    url: "/#-services"
 
   # - title: "Talks"
   #   url: "/#-talks"
