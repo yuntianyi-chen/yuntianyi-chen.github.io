@@ -184,19 +184,19 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 
 # 📝 Publications 
 
-- **[ICSE 2026]** DeFT: Maintaining Determinism and Extracting Unit Tests for Autonomous Driving Planning, Yuqi Huai, <u>Yuntianyi Chen</u>, Ziwen Wan, Qi Alfred Chen, Joshua Garcia. In 48th IEEE/ACM International Conference on Software Engineering, ICSE 2026, Rio de Janeiro, Brazil, April 12-18, 2026. **(Accepted, To be published)**
+- **[ICSE 2026]** DeFT: Maintaining Determinism and Extracting Unit Tests for Autonomous Driving Planning. Yuqi Huai, <u>Yuntianyi Chen</u>, Ziwen Wan, Qi Alfred Chen, Joshua Garcia. In 48th IEEE/ACM International Conference on Software Engineering, ICSE 2026, Rio de Janeiro, Brazil, April 12-18, 2026. **(Accepted, To be published)**
 
-- **[FSE 2025]** [A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems](https://dl.acm.org/doi/10.1145/3715733), <u>Yuntianyi Chen</u>, Yuqi Huai, Yirui He, Shilong Li, Changnam Hong, Qi Alfred Chen, Joshua Garcia. Proc. ACM Softw. Eng. 2, FSE (2025), 380-402.
+- **[FSE 2025]** [A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems](https://dl.acm.org/doi/10.1145/3715733). <u>Yuntianyi Chen</u>, Yuqi Huai, Yirui He, Shilong Li, Changnam Hong, Qi Alfred Chen, Joshua Garcia. Proc. ACM Softw. Eng. 2, FSE (2025), 380-402.
 
-- **[FSE 2024]** [Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://dl.acm.org/doi/abs/10.1145/3660792), <u>Yuntianyi Chen</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia. Proc. ACM Softw. Eng. 1, FSE (2024), 1913–1936.
+- **[FSE 2024]** [Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems](https://dl.acm.org/doi/abs/10.1145/3660792). <u>Yuntianyi Chen</u>, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia. Proc. ACM Softw. Eng. 1, FSE (2024), 1913–1936.
 
-- **[TSE 2023]** [scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383), Yuqi Huai, Sumaya Almanee, <u>Yuntianyi Chen</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia. IEEE Trans. Software Eng. 49, 10 (2023), 4656–4676.
+- **[TSE 2023]** [scenoRITA: Generating Diverse, Fully Mutable, Test Scenarios for Autonomous Vehicle Planning](https://ieeexplore.ieee.org/abstract/document/10234383). Yuqi Huai, Sumaya Almanee, <u>Yuntianyi Chen</u>, Xiafa Wu, Qi Alfred Chen, Joshua Garcia. IEEE Trans. Software Eng. 49, 10 (2023), 4656–4676.
 
-- **[ICSE 2023]** [Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software](https://ieeexplore.ieee.org/abstract/document/10172903), Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wan, Qi Alfred Chen, Joshua Garcia. In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Melbourne, Australia, May 14-20, 2023. IEEE, 2591–2603.
+- **[ICSE 2023]** [Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software](https://ieeexplore.ieee.org/abstract/document/10172903). Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wan, Qi Alfred Chen, Joshua Garcia. In 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Melbourne, Australia, May 14-20, 2023. IEEE, 2591–2603.
 
-- **[APSEC 2019]** [Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems](https://ieeexplore.ieee.org/abstract/document/8945705), Yongfeng Gu, <u>Yuntianyi Chen</u>, Xiangyang Jia, Jifeng Xuan. In 26th Asia-Pacific Software Engineering Conference, APSEC 2019, Putrajaya, Malaysia, December 2-5, 2019. IEEE, 150–157.
+- **[APSEC 2019]** [Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems](https://ieeexplore.ieee.org/abstract/document/8945705). Yongfeng Gu, <u>Yuntianyi Chen</u>, Xiangyang Jia, Jifeng Xuan. In 26th Asia-Pacific Software Engineering Conference, APSEC 2019, Putrajaya, Malaysia, December 2-5, 2019. IEEE, 150–157.
 
-- **[SOFL+MSVL 2019]** [Regression Models for Performance Ranking of Configurable Systems: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-030-41418-4_17), <u>Yuntianyi Chen</u>, Yongfeng Gu, Lulu He, Jifeng Xuan. In Structured Object-Oriented Formal Language and Method - 9th International Workshop, SOFL+MSVL 2019, Shenzhen, China, November 5, 2019. Springer, 243–258.
+- **[SOFL+MSVL 2019]** [Regression Models for Performance Ranking of Configurable Systems: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-030-41418-4_17). <u>Yuntianyi Chen</u>, Yongfeng Gu, Lulu He, Jifeng Xuan. In Structured Object-Oriented Formal Language and Method - 9th International Workshop, SOFL+MSVL 2019, Shenzhen, China, November 5, 2019. Springer, 243–258.
 
 # 📚 Services
 
