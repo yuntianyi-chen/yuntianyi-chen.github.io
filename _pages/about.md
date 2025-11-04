@@ -252,7 +252,7 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 - *2024 & 2025*, ACM SIGSOFT CAPS Award
 - *2023 & 2025*, NSF Student Travel Award
 - *2021*, Chair's Award, University of California, Irvine
-- *2017-2018, 2016-2017, & 2018-2019*, Scholarship for Outstanding Students (Top 5%)
+- *2016-2017, 2017-2018, & 2018-2019*, Scholarship for Outstanding Students (Top 5%), Wuhan University
 - *2018*, Chinese Undergraduate Computer Design Contest (Provincial Level, Second Prize)
 
 # 💻 Experience
