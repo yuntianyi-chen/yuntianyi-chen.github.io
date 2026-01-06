@@ -267,6 +267,7 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
   - SWE 244P - Concurrent Programming
   - SWE 247P - Applied Information Retrieval
   - SWE 249P - Applied Data Analytics
+  - SWE 250P - Web Programming
   - SWE 266P - Software Security and Dependability
   - I&C SCI 32 - Programming with Software Libraries
   - I&C SCI 33 - Intermediate Programming
