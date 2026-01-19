@@ -214,6 +214,7 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 
 #### Journal Reviewer
 - *2026.01*, Reviewer, IEEE Transactions on Software Engineering (TSE)
+- *2026.01*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2025.11*, Reviewer, IEEE Transactions on Intelligent Transportation Systems (T-ITS)
 - *2025.11*, Reviewer, European Journal of Computer Sciences and Informatics (EJCSI)
 - *2025.10*, Reviewer, IEEE Transactions on Software Engineering (TSE)
