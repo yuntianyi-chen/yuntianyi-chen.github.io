@@ -85,6 +85,7 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Ziwen Wan, Qi Alfred Chen, Joshua Garcia
 
 48th IEEE/ACM International Conference on Software Engineering, ICSE 2026, Rio de Janeiro, Brazil, April 12-18, 2026. **(Accepted \| To be published)**
 
+[![ACM](https://img.shields.io/badge/ACM_Digital_Library-10.1145%2F3744916.3773252-blue.svg)](https://doi.org/10.1145/3744916.3773252)
 
 <br/>
 
