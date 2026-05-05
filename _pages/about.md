@@ -279,6 +279,7 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
   - I&C SCI 32 - Programming with Software Libraries
   - I&C SCI 33 - Intermediate Programming
   - I&C SCI 45J - Programming in Java
+  - IN4MATX 117 - Project in Software System Design
   - IN4MATX 122 - Software Design: Structure and Implementation
   - COMPSCI 113 / IN4MATX 125  - Computer Game Development
 - *2020.07 - 2021.07*, **Research Assistant**, Centre of Software Testing, Analysis and Reliability (CSTAR), Wuhan University
