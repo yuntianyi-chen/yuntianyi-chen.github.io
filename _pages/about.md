@@ -214,7 +214,11 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 - *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Journal Reviewer
-- *2026.05*, Reviewer, Springer Artificial Intelligence Review
+- *2026.07*, Reviewer, IEEE Transactions on Reliability (TR)
+- *2026.07*, Reviewer, IEEE Transactions on Software Engineering (TSE)
+- *2026.06*, Reviewer, IEEE Transactions on Reliability (TR)
+- *2026.06*, Reviewer, IEEE Transactions on Software Engineering (TSE)
+- *2026.05*, Reviewer, Springer Nature Artificial Intelligence Review
 - *2026.05*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2026.04*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2026.03*, Reviewer, IEEE Transactions on Software Engineering (TSE)
@@ -266,10 +270,10 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 - *2018*, Chinese Undergraduate Computer Design Contest (Provincial Level, Second Prize)
 
 # 💻 Experience
-
-- *2021.09 - Present*, **Graduate Student Researcher**, Software Aurora (SORA) Lab, University of California, Irvine
+- *2026.06 - Present*, **Systems Integration Engineer Intern**, Zoox, Foster City, CA
+- *2021.09 - 2026.06*, **Graduate Student Researcher**, Software Aurora (SORA) Lab, University of California, Irvine
   - Conducting research in areas of Autonomous Driving Systems, Software Testing, and Machine Learning under the supervision of Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/)
-- *2021.09 - Present*, **Teaching Assistant**, University of California, Irvine
+- *2021.09 - 2026.06*, **Teaching Assistant**, University of California, Irvine
   - SWE 241P - Applied Data Structures and Algorithms
   - SWE 243P - Database Programming
   - SWE 244P - Concurrent Programming
@@ -293,6 +297,6 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 
 # 📫 Contact
 
-- Name Pronunciation: Yuntianyi Chen (yoon-tyen-ee chuhn)
+- Name Pronunciation: Yuntianyi Chen (yoon-TYEN-ee CHEN)
 - Have a look at my academic [CV](../attachments/CV___Yuntianyi_Chen.pdf) here!
 - Email: yuntianc@uci.edu
