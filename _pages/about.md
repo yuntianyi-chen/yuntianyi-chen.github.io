@@ -214,6 +214,10 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 - *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Journal Reviewer
+- *2026.08*, Reviewer, IEEE Transactions on Software Engineering (TSE)
+- *2026.08*, Reviewer, IEEE Transactions on Software Engineering (TSE)
+- *2026.08*, Reviewer, IEEE Transactions on Software Engineering (TSE)
+- *2026.07*, Reviewer, European Journal of Computer Sciences and Informatics (EJCSI)
 - *2026.07*, Reviewer, IEEE Transactions on Reliability (TR)
 - *2026.07*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2026.06*, Reviewer, IEEE Transactions on Reliability (TR)
@@ -262,7 +266,8 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 - *2019.11.22*, Paper Presentation, “Regression Models for Performance Ranking of Configurable Systems: A Comparative Study” at the Annual Conference on Software Analysis, Testing and Evolution (SATE 2019), Hangzhou, China
 
 # 🎖 Honors & Awards
-
+- *2027*, Dissertation Fellowship, University of California, Irvine
+- *2026*, IEEE Transactions on Software Engineering (TSE) Distinguished Reviewer
 - *2024 & 2025*, ACM SIGSOFT CAPS Award
 - *2023 & 2025*, NSF Student Travel Award
 - *2021*, Chair's Award, University of California, Irvine
