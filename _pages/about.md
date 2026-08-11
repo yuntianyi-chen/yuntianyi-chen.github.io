@@ -267,7 +267,7 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 
 # 🎖 Honors & Awards
 - *2027*, Dissertation Fellowship, University of California, Irvine
-- *2026*, IEEE Transactions on Software Engineering (TSE) Distinguished Reviewer
+- *2026*, Distinguished Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2024 & 2025*, ACM SIGSOFT CAPS Award
 - *2023 & 2025*, NSF Student Travel Award
 - *2021*, Chair's Award, University of California, Irvine
