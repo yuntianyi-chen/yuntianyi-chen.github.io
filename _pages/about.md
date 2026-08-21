@@ -214,6 +214,7 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 - *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Journal Reviewer
+<!-- - *2026.09*, Reviewer, IEEE Transactions on Software Engineering (TSE) -->
 - *2026.08*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2026.08*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2026.08*, Reviewer, IEEE Transactions on Software Engineering (TSE)
@@ -276,6 +277,9 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 
 # 💻 Experience
 - *2026.06 - Present*, **Systems Integration Engineer Intern**, Zoox, Foster City, CA
+  - **Full-Stack Validation Platform**: Shipped a **FastAPI**/**React**/**PostgreSQL** application with **47 REST endpoints**, replacing a manual milestone report with a live readiness dashboard over immutable, reproducible snapshots.
+  - **Release Readiness Scoring**: Designed a **Service Readiness Index**, a **Confidence Index** for evidence completeness, and **5** config-driven release gates that turn a manual go/no-go review into a machine-readable, **CI**-pollable verdict.
+  - **Ride-Quality Metrics Framework**: Architected a **Bazel** framework scoring **39** ride-quality metrics across 8 categories from multi-hour **on-road** vehicle logs, with **O(1)-memory** streaming reductions and process-parallel reads.
 - *2021.09 - 2026.06*, **Graduate Student Researcher**, Software Aurora (SORA) Lab, University of California, Irvine
   - Conducting research in areas of Autonomous Driving Systems, Software Testing, and Machine Learning under the supervision of Prof. [Joshua Garcia](https://jgarcia.ics.uci.edu/)
 - *2021.09 - 2026.06*, **Teaching Assistant**, University of California, Irvine
