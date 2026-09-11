@@ -83,7 +83,7 @@ Highlighted collaborative work:
 
 Yuqi Huai, <u>Yuntianyi Chen</u>, Ziwen Wan, Qi Alfred Chen, Joshua Garcia
 
-48th IEEE/ACM International Conference on Software Engineering, ICSE 2026, Rio de Janeiro, Brazil, April 12-18, 2026. **(Accepted \| To be published)**
+2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE ’26). Association for Computing Machinery, New York, NY, USA, 3311–3323.
 
 [![ACM](https://img.shields.io/badge/ACM_Digital_Library-10.1145%2F3744916.3773252-blue.svg)](https://doi.org/10.1145/3744916.3773252)
 
@@ -185,7 +185,7 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 
 # 📝 Publications 
 
-- **[ICSE 2026]** [DeFT: Maintaining Determinism and Extracting Unit Tests for Autonomous Driving Planning](../attachments/ICSE_2026_DeFT.pdf). Yuqi Huai, <u>Yuntianyi Chen</u>, Ziwen Wan, Qi Alfred Chen, Joshua Garcia. In 48th IEEE/ACM International Conference on Software Engineering, ICSE 2026, Rio de Janeiro, Brazil, April 12-18, 2026. **(Accepted \| To be published)**
+- **[ICSE 2026]** [DeFT: Maintaining Determinism and Extracting Unit Tests for Autonomous Driving Planning](https://dl.acm.org/doi/10.1145/3744916.3773252). Yuqi Huai, <u>Yuntianyi Chen</u>, Ziwen Wan, Qi Alfred Chen, Joshua Garcia. In Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE ’26). Association for Computing Machinery, New York, NY, USA, 3311–3323.
 
 - **[FSE 2025]** [A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems](https://dl.acm.org/doi/10.1145/3715733). <u>Yuntianyi Chen</u>, Yuqi Huai, Yirui He, Shilong Li, Changnam Hong, Qi Alfred Chen, Joshua Garcia. Proc. ACM Softw. Eng. 2, FSE (2025), 380-402.
 
