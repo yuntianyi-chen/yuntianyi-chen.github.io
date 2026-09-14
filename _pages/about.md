@@ -207,6 +207,7 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 - *2021.04*, Local Arrangements Chair, The Workshop of Intelligent Real-time Methods and Technologies of Quality Improvement based on Co-programming
 
 #### Program Committee
+- *2026.09*, [Program Committee Member](https://asiaccs2027.cityu.edu.mo/program-committee/index.html), 22nd ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2027), Hardware, Side Channels, and Cyber Physical Systems Track
 - *2026.01*, [Program Committee Member](https://conf.researchr.org/track/icse-2026/icse-2026-artifact-evaluation), 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), Artifacts Evaluation Track
 - *2025.01*, [Program Committee Member](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
 - *2024.09*, [Program Committee Member](https://conf.researchr.org/home/icse-2025/se4ads-2025), 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
@@ -214,7 +215,8 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 - *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Journal Reviewer
-<!-- - *2026.09*, Reviewer, IEEE Transactions on Software Engineering (TSE) -->
+- *2026.09*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
+- *2026.09*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2026.08*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2026.08*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2026.08*, Reviewer, IEEE Transactions on Software Engineering (TSE)
@@ -241,6 +243,8 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 - *2024.01*, Reviewer, IEEE Robotics and Automation Letters (RA-L)
 
 #### Conference Reviewer
+- *2026.09*, Reviewer, 22nd ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2027), Hardware, Side Channels, and Cyber Physical Systems Track
+- *2026.09*, Reviewer, 2027 Transportation Research Board Annual Meeting (TRB 2027), Presentation Paper Track
 - *2026.01*, Reviewer, 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), Artifacts Evaluation Track
 - *2025.01*, Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Artifacts Evaluation Track
 - *2024.11*, Reviewer, 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), 1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)
