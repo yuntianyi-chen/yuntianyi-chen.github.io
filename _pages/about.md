@@ -215,6 +215,9 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 - *2024.03*, [Program Committee Member](https://conf.researchr.org/track/icsa-2024/artifact-evaluation-track), 21st International Conference on Software Architecture (ICSA 2024), Artifacts Evaluation Track
 
 #### Journal Reviewer
+- *2026.11*, Reviewer, IEEE Transactions on Software Engineering (TSE)
+- *2026.11*, Reviewer, Springer Nature Scientific Reports
+- *2026.11*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2026.10*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2026.10*, Reviewer, Springer Nature Journal of Network and Systems Management
 - *2026.10*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
