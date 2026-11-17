@@ -216,6 +216,8 @@ Yuqi Huai, <u>Yuntianyi Chen</u>, Sumaya Almanee, Tuan Ngo, Xiang Liao, Ziwen Wa
 
 #### Journal Reviewer
 - *2026.11*, Reviewer, IEEE Transactions on Software Engineering (TSE)
+- *2026.11*, Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
+- *2026.11*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2026.11*, Reviewer, Springer Nature Scientific Reports
 - *2026.11*, Reviewer, IEEE Transactions on Software Engineering (TSE)
 - *2026.10*, Reviewer, IEEE Transactions on Software Engineering (TSE)
